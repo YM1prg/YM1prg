@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👨‍💻 Hi, I'm Yahya Mohmed 
-### *Machine Learning • Data Analysis • Full-Stack Apps*
+### *ASPIRING AI scientist/ AI ENGINEER Current: Building Research Path Data scientist*
 
 > 🚀 Building smart applications from data to deployment  
 > 🔍 Passionate about AI, Python, and turning models into real tools
